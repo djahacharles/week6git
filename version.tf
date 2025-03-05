@@ -7,6 +7,7 @@
   }
 }
 
+# Define the porvider
 provider "aws" {
   region = "us-east-2"
 }
